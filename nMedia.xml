@@ -1,0 +1,4 @@
+<Xml>
+    <Script file="Fonts.lua"/>
+    <Script file="Sounds.lua"/>
+</Xml>
