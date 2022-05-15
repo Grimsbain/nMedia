@@ -1,4 +1,4 @@
-## nMedia
+# nMedia
 Add custom fonts and sounds using LibSharedMedia.
 
 # How to use the .bat files.
